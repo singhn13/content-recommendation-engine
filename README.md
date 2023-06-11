@@ -4,4 +4,4 @@ Front-end application deployed [here](https://content-recommendation-engine-2w8g
 
 Source Code inside <b>netflix-clone</b>
 
-Development Tools used: ReactJS, CSS
+Development Tools used: ReactJS, HTML, CSS
